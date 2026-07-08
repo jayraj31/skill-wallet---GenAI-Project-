@@ -243,12 +243,9 @@ Roll No. :23HM1A3359
 GitHub:https://github.com/vjaykumarvadanala2005-max
 
 4. Name : MEKALA JAYA RAJU
-
-Email :jayrajmekala@gmail.com
-
-Roll No. :23HM1A3331
-
-GitHub:https://github.com/jayraj31
+ ROLL NO. :23HM1A3331
+ Email : jayrajmekala@gmail/com
+ GitHub:https://github.com/jayraj31
 
 ---
 
